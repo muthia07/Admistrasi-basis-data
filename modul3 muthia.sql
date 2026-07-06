@@ -4,7 +4,7 @@
 -- Modul : 3
 
 -- menggunakan database
-USE kelas_c_mart;
+USE kelas_b_mart;
 
 -- nilai iteral, operator matematika, perbandingan, logika
 -- fungsi matematika dan tanggal (Date)
@@ -47,7 +47,7 @@ SELECT ((8*5)+10)%6;
 
 -- praktek 5
 -- menggunakan database
-USE kelas_c_mart;
+USE kelas_b_mart;
 
 -- operatpr matematika untuk dua kolom dalam tabel penjualan
 -- ambil data hasil perkalian kolom qty dan harga simpan dalam kolom total beli
