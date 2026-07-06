@@ -4,7 +4,7 @@
 -- Modul 	: 4
 
 -- menggunakan database
-USE kelas_c_mart;
+USE kelas_b_mart;
 
 -- ORDER BY
 -- klausa dalam SQL yang digunakan untuk mengurutkan data berdasarkan kolom 
